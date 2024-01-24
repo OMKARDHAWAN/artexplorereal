@@ -1,0 +1,11 @@
+@media  screen and (max-width:420px) {
+    body{
+        width: 420px;
+    }
+    #searchbar{
+        display: none;
+    }
+    .slider-body{
+       
+    }
+}
